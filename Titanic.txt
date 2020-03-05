@@ -1,0 +1,2 @@
+A Machine Learning model on the famous Titanic dataset.
+We are asked to predict whether a passenger on the titanic would have been survived or not.
